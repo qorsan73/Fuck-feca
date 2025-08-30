@@ -1,4 +1,4 @@
-# Fuck-feca
+# Fuck-feca 2.0V
 A powerful reporting tool on Facebook from different protocols
 
 # What can this tool do?
@@ -25,7 +25,7 @@ python F.F.K.py
 # Tested on termux or kali
 
 # photo
-* ![٢٠٢٣٠٧١٢_٠٢٠٨٣٠](https://github.com/qorsan73/Fuck-feca/assets/99475446/1128a1c3-ec5f-46c7-89d5-145592227510)
+*<img width="1291" height="660" alt="Capture001" src="https://github.com/user-attachments/assets/1eaccfe2-e279-4417-8227-087cf0ccd700" />
 
 # To communicate with the developer
 ```
